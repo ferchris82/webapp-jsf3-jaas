@@ -1,0 +1,12 @@
+org\chrisferdev\webapp\jsf3\ProducerResources.class
+org\chrisferdev\webapp\jsf3\repositories\ProductoRepositoryImpl.class
+org\chrisferdev\webapp\jsf3\controllers\LenguajeController.class
+org\chrisferdev\webapp\jsf3\entities\Categoria.class
+org\chrisferdev\webapp\jsf3\repositories\CategoriaRepositoryImpl.class
+org\chrisferdev\webapp\jsf3\services\ProductoService.class
+org\chrisferdev\webapp\jsf3\controllers\ProductoController.class
+org\chrisferdev\webapp\jsf3\repositories\CrudRepository.class
+org\chrisferdev\webapp\jsf3\converters\CategoriaConverter.class
+org\chrisferdev\webapp\jsf3\ProducerEntityManager.class
+org\chrisferdev\webapp\jsf3\entities\Producto.class
+org\chrisferdev\webapp\jsf3\services\ProductoServiceImpl.class
