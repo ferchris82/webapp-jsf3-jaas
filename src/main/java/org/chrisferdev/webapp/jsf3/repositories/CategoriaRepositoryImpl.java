@@ -15,7 +15,7 @@ public class CategoriaRepositoryImpl implements CrudRepository<Categoria>{
 
     @Override
     public List<Categoria> listar() {
-        return em.createQuery("from Categoria", Categoria.class).getResultList();
+        return em.createQuery("SELECT ca FROM Categoria ca", Categoria.class).getResultList();
     }
 
     @Override

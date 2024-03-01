@@ -4,70 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="618d852c-81c4-4087-84e9-74fbfe5ab8e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="618d852c-81c4-4087-84e9-74fbfe5ab8e0" name="Changes" comment="Versión 1.1">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/ProducerResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/ProducerResources.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/controllers/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/controllers/ProductoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/repositories/CategoriaRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/repositories/CategoriaRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/repositories/CrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/repositories/CrudRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/repositories/ProductoRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/repositories/ProductoRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/services/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/services/ProductoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/services/ProductoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jsf3/services/ProductoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/main.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/layouts/main.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/form.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/form.xhtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/messages_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/messages_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/ProducerEntityManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/ProducerResources.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/controllers/LenguajeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/controllers/ProductoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/converters/CategoriaConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/entities/Categoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/entities/Producto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/repositories/CategoriaRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/repositories/CrudRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/repositories/ProductoRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/services/ProductoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jsf3/services/ProductoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/messages_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/messages_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/ProducerEntityManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/ProducerResources.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/controllers/LenguajeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/controllers/ProductoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/converters/CategoriaConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/entities/Categoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/entities/Producto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/repositories/CategoriaRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/repositories/CrudRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/repositories/ProductoRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/services/ProductoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/classes/org/chrisferdev/webapp/jsf3/services/ProductoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/layouts/main.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/lib/primefaces-10.0.0-jakarta.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/form.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/resources/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/resources/img/jakarta.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-jsf3-primefaces/resources/js/bootstrap.bundle.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,10 +48,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/ProjectsIntelliJ/webapp-jaxrs",
+    "last_opened_file_path": "D:/ProjectsIntelliJ/webapp-jaxws-jpa",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="webapp-jsf3-jaas [wildfly:deploy]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="wildfly:deploy" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,6 +88,25 @@
       <option name="presentableId" value="Default" />
       <updated>1709315244216</updated>
     </task>
+    <task id="LOCAL-00001" summary="Versión 1.1">
+      <created>1709316357805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709316357805</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Versión 1.1">
+      <created>1709316370494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709316370494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versión 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión 1.1" />
   </component>
 </project>

@@ -12,7 +12,7 @@ import java.util.ResourceBundle;
 @ApplicationScoped
 public class ProducerResources {
 
-    @Produces
+    //@Produces
     @RequestScoped
     public FacesContext beanFacesContext() {
         FacesContext facesContext = FacesContext.getCurrentInstance();
